@@ -1,4 +1,4 @@
-{"version_code":5,"content":"
+{"version_code":8,"content":"
 
 <p>تحديث 1.70</p>
 
